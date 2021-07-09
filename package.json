@@ -1,0 +1,10 @@
+{
+    "name": "find-work-exercise",
+    "version": "0.1",
+    "devDependencies": {
+        "@types/node": "^16.3.0",
+        "nodemon": "^1.17.3",
+        "ts-node": "^8.6.2",
+        "typescript": "^3.5.3"
+    }
+}
