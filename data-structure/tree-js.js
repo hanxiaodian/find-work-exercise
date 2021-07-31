@@ -131,3 +131,11 @@ console.log(tree)
 // tree.preOrderTraverse(console.log)
 // console.log('++++++++++++++++++++')
 tree.afterOrderTraverse(console.log)
+let map = new Map()
+map.set(1, 2)
+
+
+//给定一个数组，移除所有相邻相同数字，直到没有相邻相同数字为止。
+
+Input:  [1, 2, 3, 3,3, 4, 4, 2, 5, 7, 7, 5, 6, 8, 1]
+Output:  [1, 6, 8, 1]
